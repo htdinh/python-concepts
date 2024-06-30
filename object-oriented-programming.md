@@ -7,7 +7,9 @@
 
 2.  <details>
     <summary>What are classes and instances in OOP?</summary>
+    
     ### Class
+
     A class is a blueprint or a template for creating objects, defining a set of attributes (data) and methods (functions) that the created objects will have. 
 
     ### Instance
